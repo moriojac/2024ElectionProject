@@ -12,7 +12,7 @@
     </td>
     <!-- Text Column -->
     <td style="width: 15%; padding-left: 10px; overflow: hidden; word-break: break-word;" align="left" valign="top">
-      <div style="font-size: 12px; line-height: 1.4;">
+      <div style="font-size: 9px; line-height: 1.4;">
         <strong>2024 Presidential Election Polling Visualizations</strong>
         <br><br>
         <p>
