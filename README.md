@@ -48,7 +48,7 @@
         <strong>The Influence of Podcasting in the 2024 U.S. Election</strong>
         <p>
           <br>
-          These visualizations examines the impact of podcast appearances on the 2024 U.S. presidential election, comparing the number of interviews and total viewership for the 2024 
+          These visualizations examine the impact of podcast appearances on the 2024 U.S. presidential election, comparing the number of interviews and total viewership for the 2024 
           presidential and vice-presidential nominees. The layouts include bar charts that present the frequency of podcast appearances and cumulative views for each candidate, 
           alongside scatter plots that map out the timing, duration, and relative audience size of each individual podcast episode. 
       </div>
