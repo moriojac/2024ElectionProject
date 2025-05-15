@@ -2,9 +2,9 @@
 
 <table width="100%" style="table-layout: fixed;">
   <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="100%">
       <div>
-        <img src="InjuryProject_P1.png" style="width: 90%; height: 300px; object-fit: cover;" />
+        <img src="2024ElectionProject_P1.png" style="width: 100%; height: 300px; object-fit: cover;" />
       </div>
     </td>
     <td align="center" valign="top" width="25%">
