@@ -28,6 +28,33 @@
   </tr>
 </table>
 
+<br><br>
+
+<table style="width: 100%;">
+  <!-- Row 1: Images -->
+  <tr>
+    <td align="center" valign="top" style="width: 50%;">
+      <img src="2024ElectionProject_P3.png" style="max-height: 300px; width: auto;" />
+    </td>
+    <td align="center" valign="top" style="width: 50%;">
+      <img src="2024ElectionProject_P4.png" style="max-height: 300px; width: auto;" />
+    </td>
+  </tr>
+
+  <!-- Row 2: Text spanning both columns -->
+  <tr>
+    <td colspan="2" align="center" valign="top" style="padding-top: 10px;">
+      <div style="font-size: 12px; line-height: 1.5; max-width: 90%; margin: auto;">
+        <strong>The Influence of Podcasting in the 2024 U.S. Election</strong>
+        <p>
+          <br>
+          These visualizations examines the impact of podcast appearances on the 2024 U.S. presidential election, comparing the number of interviews and total viewership for the 2024 
+          presidential and vice-presidential nominees.
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 
 
