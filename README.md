@@ -17,9 +17,11 @@
       <div style="font-size: 12px; line-height: 1.5; max-width: 90%; margin: auto;">
         <strong>2024 Presidential Election Polling Visualizations</strong>
         <p>
-          The first visualization presents the projected electoral outcome of the 2024 U.S. presidential election based on polling averages in each state.
-          The next visualization compares actual election performance to pre-election polls across all 50 U.S. states, highlighting which candidate over-performed
-          or underperformed expectations.
+          <br>
+          The first visualization displays a map of the United States showing projected electoral outcomes for the 2024 presidential election based on state-level polling averages. 
+          Each state is color-coded to represent the leading candidate according to the polls.
+          The second visualization illustrates the difference between actual election results and pre-election polling across all 50 states. It uses a color-coded map to indicate which 
+          candidate outperformed or underperformed the polling expectations in each state.
         </p>
       </div>
     </td>
