@@ -1,4 +1,4 @@
-# 2024ElectionProject
+# 2024 U.S Presidential Election Visualizations (2024)
 
 <table style="width: 100%;">
   <!-- Row 1: Images -->
