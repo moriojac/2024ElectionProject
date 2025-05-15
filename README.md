@@ -1,20 +1,17 @@
 # 2024ElectionProject
 
-<table width="100%" style="table-layout: fixed;">
+<table>
   <tr>
-    <td align="center" valign="top" width="100%">
-      <div>
-        <img src="2024ElectionProject_P1.png" style="width: 100%; height: 300px; object-fit: cover;" />
-      </div>
+    <td align="center" valign="top">
+      <img src="2024ElectionProject_P1.png" style="height: 300px; object-fit: cover;" />
     </td>
-    <td align="center" valign="top" width="25%">
-      <div>
-        <img src="InjuryProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
-      </div>
+    <td align="center" valign="top">
+      <img src="2024ElectionProject_P2.png" style="height: 300px; object-fit: cover;" />
     </td>
-    <td align="center" valign="top" width="25%">
-      <div>
-        <img src="InjuryProject_P3.png" style="width: 90%; height: 300px; object-fit: cover;" />
-      </div>
+    <td align="center" valign="top">
+      <img src="2024ElectionProject_P3.png" style="height: 300px; object-fit: cover;" />
+    </td>
   </tr>
 </table>
+
+
