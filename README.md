@@ -1,5 +1,12 @@
 # 2024 U.S Presidential Election Visualizations (2024)
 
+<h2>Languages and Utilities Used</h2>
+
+- <b>Tableau</b> 
+- <b>Excel</b>
+
+<br><br>
+
 <table style="width: 100%;">
   <!-- Row 1: Images -->
   <tr>
